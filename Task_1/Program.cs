@@ -25,7 +25,7 @@ void Start()
         Console.WriteLine("3. Enter title");
         Console.WriteLine("4. Enter year");
         Console.WriteLine("5. Show info");
-        Console.WriteLine("Exit");
+        Console.WriteLine("exit");
         Console.Write(">>");
         string key = Console.ReadLine();
 
