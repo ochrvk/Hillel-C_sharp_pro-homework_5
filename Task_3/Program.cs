@@ -17,8 +17,6 @@ while (true)
             break;
         case "2":
             StartPiece();
-            GC.Collect();
-            GC.WaitForPendingFinalizers();
             break;
         case "3":
             return;
